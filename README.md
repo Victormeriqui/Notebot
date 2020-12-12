@@ -17,5 +17,9 @@ Similar to [here](https://www.curseforge.com/minecraft/mc-mods/notebot) press th
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+## Contributors
+[@humboldt123](https://github.com/humboldt123)  
+[@Victormeriqui](https://github.com/Victormeriqui)  
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
