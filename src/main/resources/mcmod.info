@@ -1,0 +1,16 @@
+[
+{
+  "modid": "notebot",
+  "name": "NoteBot",
+  "description": "An automatic noteblock player",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Victormeriqui", "Humboldt123"],
+  "credits": "Forge API",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
