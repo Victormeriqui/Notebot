@@ -4,7 +4,7 @@ Notebot is a minecraft mod that allows you to automatically play MIDI files on n
 
 You must build a specific structure with note blocks, and then load play whatever MIDI files you want
 
-https://www.youtube.com/channel/UClN48pFFHuqVJhpYUZVCegw
+https://www.youtube.com/watch?v=y4zUEk0KYGE
 
 ## Installation
 
