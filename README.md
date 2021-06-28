@@ -12,7 +12,7 @@ Download forge for Minecraft 1.12.2 and get the put `.jar` from the [releases pa
 
 ## Usage
 
-Similar to [here](https://www.curseforge.com/minecraft/mc-mods/notebot) press the `G` key to open the GUI. It is of note that currently Tuning or Discovering without Mapping **will** result in a crash due to a NullPointerException. It is also of note that this was built for the Notebot area on `CrystalPvP.cc`. If you want your own notebot setup for this mod, edit [Mapper.java](https://github.com/Victormeriqui/NoteBot/blob/master/src/main/java/com/notebot/mod/Mapper.java) and build youself.
+Similar to [here](https://www.curseforge.com/minecraft/mc-mods/notebot) press the `G` key to open the GUI. If you want your own notebot setup for this mod, edit [Mapper.java](https://github.com/Victormeriqui/NoteBot/blob/master/src/main/java/com/notebot/mod/Mapper.java) and build youself.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
